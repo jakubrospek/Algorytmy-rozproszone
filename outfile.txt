@@ -1,0 +1,15 @@
+timings (proc 0):
+  read data:		0.156009
+  process data:	0.164011
+  reduce results:	0.17201
+  total:		0.49203
+timings (proc 1):
+  read data:		0.188011
+  process data:	0.304019
+  reduce results:	0
+  total:		0.49203
+timings (proc 2):
+  read data:		0.132008
+  process data:	0.32802
+  reduce results:	0
+  total:		0.460028
